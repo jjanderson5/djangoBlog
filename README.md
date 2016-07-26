@@ -1,0 +1,2 @@
+# djangoBlog
+testing django tutorial
